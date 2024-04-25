@@ -1,0 +1,36 @@
+{
+    "user1": {
+      "id":1,
+      "nama":"Danur",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"0812342432"
+    },
+
+    "user2": {
+      "id":2,
+      "nama":"Isa",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"54345678876"
+    },
+
+    "user3": {
+      "id":3,
+      "nama":"Prabutama",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"543345678765"
+    },
+
+    "user4": {
+      "id":4,
+      "nama":"Joko",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"94876362718"
+    },
+
+    "user5": {
+      "id":5,
+      "nama":"Widodo",
+      "jenis_kelamin":"Laki-Laki",
+      "telpon":"8374653278"
+    }
+  }
